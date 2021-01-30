@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(338,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(339,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(987,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(989,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(991,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(1758,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(1784,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(1913,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(1920,1): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\git\vulkan2\vulkan2\vulkan2\main.cpp(1937,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  vulkan2.vcxproj -> C:\git\vulkan2\vulkan2\x64\Debug\vulkan2.exe

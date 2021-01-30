@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  2 of 953 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vulkan2.vcxproj -> C:\git\vulkan2\vulkan2\x64\Release\vulkan2.exe
